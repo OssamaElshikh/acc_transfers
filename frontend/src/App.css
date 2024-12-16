@@ -1,0 +1,14 @@
+/* Center align the header and add some padding and color */
+h1 {
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  color: #007bff;
+  /* Bootstrap primary color */
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Add spacing between components */
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
