@@ -30,7 +30,7 @@ This is a simple web application built with Django as the backend and React as t
 
 
 # Clone the repository
-git clone https://github.com/OssamaElshikh/account_transfers.git
+git clone https://github.com/OssamaElshikh/acc_transfers.git
 cd account_transfers
 
 # Create and activate a virtual environment for the backend
